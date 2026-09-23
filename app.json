@@ -26,6 +26,14 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": ["expo-secure-store"]
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8cdb9e4a-61fc-431e-9704-9784e0499daf"
+      }
+    },
+    "owner": "sidsri2323"
   }
 }
